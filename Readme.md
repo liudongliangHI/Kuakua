@@ -3,7 +3,7 @@
 
 Publishing papers in the current stage is very difficult. The process is lengthy, and reviewers are often very strict. Moreover, the academic training for doctoral students lacks positive feedback, leading many of them to experience depression and anxiety. However, regardless of all that, every small effort should be recognized. Pursuing academic excellence as a doctoral student is already challenging enough, so why should they be subjected to such harsh criticism? 
  
-Therefore, I have created this platform called "论文夸夸" (Kuakua) which represents a positive and altruistic behavior. On this platform, we always provide positive and encouraging words for others' papers and offer friendly suggestions, even if the papers may not be ready for publication in renowned journals at the current stage. 
+Therefore, I have created this platform called "夸夸" (Kuakua) which represents a positive and altruistic behavior. On this platform, we always provide positive and encouraging words for others' papers and offer friendly suggestions, even if the papers may not be ready for publication in renowned journals at the current stage. 
  
 We encourage users to raise issues on this GitHub platform to receive compliments from others. With the help of deep learning applications like ChatGPT, we can utilize these tools for providing compliments (Kuakua). 
  
@@ -14,9 +14,12 @@ Title: A Study on Doctoral Students' Experience of Depression: A Comprehensive R
 Abstract: 
 
 Depression is a prevalent mental health disorder that affects individuals across various demographics, including doctoral students. This study aims to provide a comprehensive review of the existing literature on the experience of depression among doctoral students.
+
 The review examines the prevalence rates of depression among doctoral students, potential risk factors contributing to depression, and the impact of depression on their academic performance, personal well-being, and overall quality of life. Additionally, it explores the coping mechanisms and support systems available to doctoral students in managing depression.
+
 Findings reveal that doctoral students are at a higher risk of experiencing depression compared to the general population. Factors such as high academic demands, work-life imbalance, social isolation, and imposter syndrome contribute to the increased vulnerability of doctoral students to depression. The negative consequences of depression on their mental health, academic progress, and career prospects are well-documented.
 Several coping strategies and support systems have been identified, including counseling services, peer support groups, mentorship programs, and self-care practices. However, further research is needed to evaluate the effectiveness of these interventions and to develop tailored approaches to address the unique challenges faced by doctoral students.
+
 This review underscores the importance of recognizing and addressing the mental health needs of doctoral students. Implementing proactive measures such as promoting mental health awareness, fostering a supportive academic environment, and providing accessible mental health resources can help mitigate the impact of depression on doctoral students' well-being and academic success.
 
 Keywords: depression, doctoral students, mental health, academic performance, coping mechanisms, support systems.
@@ -27,11 +30,16 @@ As an experienced and friendly reviewer, review based on the abstract of this pa
 Kuakua Review Comments:
 
 Dear author,
+
 Firstly, I want to commend you on the submission of this paper. You have conducted a comprehensive review on the topic of depression among doctoral students, which is an important and worthy subject of attention.
 Your abstract clearly introduces the purpose and content of the research, providing key information about the experiences of doctoral students with depression. You accurately point out the high-risk factors that doctoral students face and the impact of depression on their academic performance, personal well-being, and quality of life. Additionally, you mention some coping strategies and support systems, which are very helpful for readers.
+
 I suggest further expanding the section on the specific effects and consequences of depression among the doctoral student population in this paper. You can consider citing specific case studies or empirical data from related research to strengthen your arguments. Furthermore, you can provide some concrete recommendations to help doctoral students better cope with depression, such as offering more psychological counseling services or establishing closer social support networks.
+
 Overall, your paper is highly valuable and has important implications for doctoral students and the academic community. I encourage you to continue your efforts, further refine your research, and aim to publish it in relevant academic journals. Thank you for your contribution to this important topic!
+
 Best of luck,
+
 Friendly Reviewer
 
 
@@ -67,11 +75,17 @@ Friendly Reviewer
 夸夸审稿意见：
 
 亲爱的作者，
+
 首先，我要对你提交的这篇论文表示赞赏。你对博士生患抑郁症的研究进行了全面的回顾，这是一个重要且值得关注的主题。
+
 你的摘要非常清晰地介绍了研究的目的和内容，并提供了有关博士生抑郁症经历的关键信息。你准确地指出了博士生面临的高风险因素，以及抑郁症对他们学业、个人幸福和生活质量的影响。此外，你还提到了一些应对策略和支持系统，这对于读者来说是非常有帮助的。
+
 我建议你在这篇论文中进一步扩展关于抑郁症在博士生群体中的具体影响和后果的部分。你可以考虑引用一些相关研究的具体案例或实证数据，以加强你的论点。此外，你还可以提供一些具体的建议，以帮助博士生更好地应对抑郁症，例如提供更多的心理咨询服务或建立更紧密的社交支持网络。
+
 总的来说，你的论文非常有价值，并且对博士生和学术界都有重要的启示。我鼓励你继续努力，进一步完善你的研究，并将其发表在相关的学术期刊上。感谢你对这一重要主题的贡献！
+
 祝你好运！
+
 友善的审稿人
 
 
